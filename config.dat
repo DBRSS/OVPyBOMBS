@@ -1,0 +1,15 @@
+[config]
+gituser = dbarcklow
+gitcache = 
+gitoptions = 
+prefix = /home/zbd/Programs/pytarget
+satisfy_order = deb,src
+forcepkgs = 
+forcebuild = gnuradio,uhd,gr-air-modes,gr-osmosdr,gr-iqbal,gr-fcdproplus,uhd,rtl-sdr,osmo-sdr,hackrf,gqrx,bladeRF,airspy
+timeout = 30
+cmakebuildtype = RelWithDebInfo
+builddocs = OFF
+cc = gcc
+cxx = g++
+makewidth = 4
+
