@@ -1,8 +1,8 @@
 [config]
-gituser = dbarcklow
+gituser = zbd
 gitcache = 
 gitoptions = 
-prefix = /home/zbd/Programs/pytarget
+prefix = /home/zbd/Targets/target_hackrf
 satisfy_order = deb,src
 forcepkgs = 
 forcebuild = gnuradio,uhd,gr-air-modes,gr-osmosdr,gr-iqbal,gr-fcdproplus,uhd,rtl-sdr,osmo-sdr,hackrf,gqrx,bladeRF,airspy
