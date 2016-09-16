@@ -1,4 +1,7 @@
 This source did not originate from DBRSS and Copyright belongs to Tim O'Shea (2013)
 For the latest version please see http://pybombs.info
 
-
+Instructions to use:
+1. Edit config.dat to include your own prefix path
+2. $ ./pybombs config
+3. $ ./pybombs env

@@ -1,8 +1,8 @@
 [config]
-gituser = zbd
+gituser = z1110br1010
 gitcache = 
 gitoptions = 
-prefix = /home/zbd/Targets/target_hackrf
+prefix = /home/z1110br1010/Targets/
 satisfy_order = deb,src
 forcepkgs = 
 forcebuild = gnuradio,uhd,gr-air-modes,gr-osmosdr,gr-iqbal,gr-fcdproplus,uhd,rtl-sdr,osmo-sdr,hackrf,gqrx,bladeRF,airspy
